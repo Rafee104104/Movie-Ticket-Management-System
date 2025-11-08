@@ -2,6 +2,8 @@
 
 this project name is Ticketzy, A Movie Ticket Management System.
 
+Author: Janak Mallik, Tasnim Munawar Rafee
+
 follow these steps to execute this project
 
 step 1: run the sql file
